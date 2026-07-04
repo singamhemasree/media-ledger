@@ -1,6 +1,0 @@
-## Backend setup
-```bash
-cd backend
-npm install
-cp .env.example .env
-npm run dev
